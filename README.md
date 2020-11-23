@@ -1,14 +1,13 @@
 # PNU_3991_AR
 ---------
-### محمد امیری
+### علی امیری
  
 ---
-- [حساب گیت هاب](https://github.com/mamadbatman/)
+- [حساب گیت هاب](https://github.com/aliihunter/)
 
-- [رزومه](https://github.com/mamadbatman/mamadbatman.github.io/blob/master/index.md)
+- [رزومه](https://github.com/mamadbatman/aliihunter.github.io/blob/master/index.md)
 
-- [SOP](https://github.com/mamadbatman/SOP)
-- [Php](https://uupload.ir/files/wvmu_whatsapp_image_2020-11-13_at_20.39.22.jpeg)
+- [SOP](https://github.com/aliihunter/SOP)
 
 ------------------
 ## Winter Semester Courses 1399/2020
