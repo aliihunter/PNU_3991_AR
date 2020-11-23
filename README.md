@@ -5,9 +5,12 @@
 ---
 - [حساب گیت هاب](https://github.com/aliihunter/)
 
-- [رزومه](https://github.com/mamadbatman/aliihunter.github.io/blob/master/index.md)
+- [رزومه](https://github.com/aliihunter/aliamiri.github.io/blob/master/index.md)
 
 - [SOP](https://github.com/aliihunter/SOP)
+
+- [java script](https://uupload.ir/files/mzxw_whatsapp_image_2020-11-23_at_21.58.09.jpeg)
+
 
 ------------------
 ## Winter Semester Courses 1399/2020
