@@ -7,7 +7,7 @@
 
 - [رزومه](https://github.com/aliihunter/aliamiri.github.io/blob/master/index.md)
 
-- [SOP](https://github.com/aliihunter/SOP/blob/main/chart.pdf)
+- [SOP](https://github.com/aliihunter/SOP)
 
 - [JS Certificate](https://github.com/aliihunter/JsCertificate/blob/main/JsCertificate.jpeg)
 
