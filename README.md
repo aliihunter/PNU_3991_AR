@@ -20,7 +20,8 @@
 [1115157_01_166 نظريه زبانهاوماشين](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Theory-of-Languages-and-Machines)
 <br>
 [ روش پژوهش و ارائه 1322010_01_166](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/ResearchAndPresentationMethods)
-
+<br>
+[کارآموزی](https://github.com/AliRazavi-edu/PNU_3991/tree/master/_BSc/Internship#TOC)
 --------------
 ## روز و ساعت ارائه دروس
 
