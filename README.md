@@ -84,8 +84,8 @@
   </tr>
 </table>
 
-## گروه بندی
+## گروه بندي
 
-
-
-ed
+1. [راضيه فياض](https://github.com/rahafyz)
+2. [علي اميري](https://github.com/aliihunter)
+3. [محمد اميري](https://github.com/mamadbatman)
