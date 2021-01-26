@@ -94,4 +94,4 @@
 ## جستجوی منابع دیگر
 
   Hitting the Trail: An Exploration of an Outdoor Educational Experience at Intermountain West Junior High School
-  - [لینک پایان نامهcom/aliihunter/)
+- [لینک پایان نامه](https://digitalcommons.usu.edu/etd/7953/)
