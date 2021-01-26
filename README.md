@@ -89,3 +89,9 @@
 1. [راضيه فياض](https://github.com/rahafyz)
 2. [علي اميري](https://github.com/aliihunter)
 3. [محمد اميري](https://github.com/mamadbatman)
+
+
+## جستجوی منابع دیگر
+
+  Hitting the Trail: An Exploration of an Outdoor Educational Experience at Intermountain West Junior High School
+  - [لینک پایان نامهcom/aliihunter/)
